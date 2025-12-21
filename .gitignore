@@ -1,0 +1,15 @@
+*.pdf
+*.docx
+*.doc
+*.txt
+*.rtf
+*.html
+*.css
+*.js
+*.json
+*.xml
+*.yml
+*.yaml
+*.toml
+*.lock
+*.log
