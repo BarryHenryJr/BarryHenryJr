@@ -239,6 +239,10 @@ A two-person engineering collective solving business problems with tools that pr
 
 📍 **Location:** Kīhei, Island of Maui, Kingdom of Hawai'i
 
+[![Location Map](https://staticmap.openstreetmap.de/staticmap.php?center=20.7644,-156.4475&zoom=11&size=600x300&markers=20.7644,-156.4475,red-pushpin)](https://www.google.com/maps/place/Kihei,+HI/@20.7644,-156.4475,12z)
+
+_Click map to view on Google Maps_
+
 </div>
 
 ---
