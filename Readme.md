@@ -199,11 +199,17 @@ A two-person engineering collective solving business problems with tools that pr
 
 <div align="center">
 
-![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=barryhenryjr&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true)
+<a href="https://github.com/barryhenryjr">
+  <img height="180" align="center" src="https://github-readme-stats-henna-one-16.vercel.app/api?username=barryhenryjr&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" alt="Barry's GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barryhenryjr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+<a href="https://github.com/barryhenryjr">
+  <img height="180" align="center" src="https://github-readme-stats-henna-one-16.vercel.app/api/top-langs/?username=barryhenryjr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true" alt="Top Languages" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=barryhenryjr&theme=radical&mode=weekly&hide_total_contributions=false)](https://git.io/streak-stats)
+<a href="https://github.com/barryhenryjr">
+  <img height="180" align="center" src="https://github-readme-streak-stats-five-sepia.vercel.app/?user=barryhenryjr&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</a>
 
 </div>
 
