@@ -207,10 +207,6 @@ A two-person engineering collective solving business problems with tools that pr
   <img height="180" align="center" src="https://github-readme-stats-henna-one-16.vercel.app/api/top-langs/?username=barryhenryjr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true" alt="Top Languages" />
 </a>
 
-<a href="https://github.com/barryhenryjr">
-  <img height="180" align="center" src="https://github-readme-streak-stats-barry.vercel.app/?user=barryhenryjr&theme=radical&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_bust=1" alt="GitHub Streak" />
-</a>
-
 </div>
 
 ---
