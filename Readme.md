@@ -23,7 +23,7 @@ Currently, I wear two hats:
 
 **🔧 FinTech Ops:** At Cook Solutions Group, I build the "glue" code that makes legacy banking infrastructure talk to modern APIs, saving hundreds of engineering and troubleshooting hours.
 
-**🌱 AgTech Founder:** I run a regenerative farm on Maui. When I realized existing farm management software was bloated and expensive, I built my own full-stack platform (React/Supabase) to track crops, activities, compliance, weather data, and more.
+**🌱 AgTech Founder:** I own and operate a regenerative farm on Maui. When I realized existing farm management software was bloated and expensive, I built my own full-stack platform (React/Supabase) to track crops, activities, compliance, weather data, and more.
 
 ---
 
@@ -153,6 +153,8 @@ Part of the Agile-Flimflam engineering collective - high-velocity shipping and "
 
 [![Agile-Flimflam](https://img.shields.io/badge/Agile--Flimflam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agile-Flimflam)
 
+**Strategic nonsense at scale**
+
 A two-person engineering collective solving business problems with tools that probably shouldn't exist. Specializing in high-velocity shipping, automating manual workflows to zero, and rapid prototyping.
 
 **Focus Areas:**
@@ -172,7 +174,7 @@ A two-person engineering collective solving business problems with tools that pr
 
 **Key Achievements:**
 
-- ⚡ **30 hours/week saved** - Developed real-time status dashboard for 35+ Vidyo components, aggregating UDP latency and certificate health metrics
+- ⚡ **10 hours/week saved** - Developed real-time status dashboard for 35+ Vidyo components, aggregating UDP latency and certificate health metrics
 - 🚀 **4 hours/site deployment reduction** - Automated installation and firewall testing of Conveyance Check Imaging software via PowerShell scripts
 - 🏦 **150+ financial institutions** - Managed technical rollout of imaging solutions, debugging TCP/UDP handshake failures
 - 🔒 **Security Engineering** - Built custom log-scraping tool to detect and hash PII in server logs, eliminating data leak risks
@@ -225,7 +227,7 @@ A two-person engineering collective solving business problems with tools that pr
 - Advanced system design patterns
 - FinTech payment system architectures
 - Regenerative agriculture data science
-- Native Hawaiian farming methodologies (Mahina Hawaiʻi)
+- Native Hawaiian farming methodologies (i.e., Mahina Hawaiʻi)
 
 ---
 
@@ -233,17 +235,9 @@ A two-person engineering collective solving business problems with tools that pr
 
 <div align="center">
 
-📧 **Email:** [barryhenryjr@gmail.com](mailto:barryhenryjr@gmail.com) | [barry@happylaufarms.com](mailto:barry@happylaufarms.com)
-
 💼 **LinkedIn:** [linkedin.com/in/barrynhenry](https://linkedin.com/in/barrynhenry)
 
-🌐 **Website:** [app.happylaufarms.com](https://app.happylaufarms.com)
-
 📍 **Location:** Kīhei, Island of Maui, Kingdom of Hawai'i
-
-[![Location Map](https://staticmap.openstreetmap.de/staticmap.php?center=20.7644,-156.4475&zoom=11&size=600x300&markers=20.7644,-156.4475,red-pushpin)](https://www.google.com/maps/place/Kihei,+HI/@20.7644,-156.4475,12z)
-
-_Click map to view on Google Maps_
 
 </div>
 
@@ -252,7 +246,5 @@ _Click map to view on Google Maps_
 <div align="center">
 
 **"Solving messy, real-world problems with code and tech."**
-
-_Last updated: January 2025_
 
 </div>
