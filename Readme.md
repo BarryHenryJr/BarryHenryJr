@@ -151,6 +151,10 @@ Part of the Agile-Flimflam engineering collective - high-velocity shipping and "
 
 **Engineering Collective | Co-Founder / Engineering Lead**
 
+<div align="center">
+<img src="Images/Agile-Flimflam%20Banner.jpg" alt="Agile-Flimflam Banner" width="640" />
+</div>
+
 [![Agile-Flimflam](https://img.shields.io/badge/Agile--Flimflam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agile-Flimflam)
 
 **Strategic nonsense at scale**
@@ -158,8 +162,7 @@ Part of the Agile-Flimflam engineering collective - high-velocity shipping and "
 A two-person engineering collective solving business problems with tools that probably shouldn't exist. Specializing in high-velocity shipping, automating manual workflows to zero, and rapid prototyping.
 
 <div align="center">
-![Agile-Flimflam Logo](./Images/Agile-Flimflam%20Logo.jpeg)
-![Agile-Flimflam Banner](./Images/Agile-Flimflam%20Banner.jpg)
+<img src="Images/Agile-Flimflam%20Logo.jpeg" alt="Agile-Flimflam Logo" width="180" />
 </div>
 
 **Focus Areas:**
