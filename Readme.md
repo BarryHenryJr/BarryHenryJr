@@ -199,11 +199,11 @@ A two-person engineering collective solving business problems with tools that pr
 
 <div align="center">
 
-![Barry's GitHub stats](https://github-readme-stats-g7tq9enwz-barrys-projects-8a1845ee.vercel.app/api?username=barryhenryjr&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true/)
+![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=barryhenryjr&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-g7tq9enwz-barrys-projects-8a1845ee.vercel.app/api/top-langs/?username=barryhenryjr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barryhenryjr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-[![GitHub Streak](https://github-readme-streak-stats-30ywiuzzc-barrys-projects-8a1845ee.vercel.app?user=barryhenryjr&theme=radical&mode=weekly&hide_total_contributions=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=barryhenryjr&theme=radical&mode=weekly&hide_total_contributions=false)](https://git.io/streak-stats)
 
 </div>
 
