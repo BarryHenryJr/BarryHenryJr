@@ -208,7 +208,7 @@ A two-person engineering collective solving business problems with tools that pr
 </a>
 
 <a href="https://github.com/barryhenryjr">
-  <img height="180" align="center" src="https://github-readme-streak-stats-barry.vercel.app/?user=barryhenryjr&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img height="180" align="center" src="https://github-readme-streak-stats-barry.vercel.app/?user=barryhenryjr&theme=radical&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_bust=1" alt="GitHub Streak" />
 </a>
 
 </div>
