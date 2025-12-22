@@ -16,13 +16,14 @@
 
 ## 👋 About Me
 
-I am an Engineer that solves messy, real-world problems with code and tech. I don't just write software; I automate complex systems. Whether it's reverse-engineering ATM protocols for FinTech or building a customer ERP to manage seed lots and planting activities for regenerative agriculture.
+I am a Product Engineer who optimizes for velocity and utility. I sit at the intersection of high-stakes FinTech and boots-on-the-ground AgTech.
 
-Currently, I wear two hats:
+**My Philosophy:**
 
-**🔧 FinTech Ops:** At Cook Solutions Group, I build the "glue" code that makes legacy banking infrastructure talk to modern APIs, saving hundreds of engineering and troubleshooting hours.
+- **In FinTech:** I write the "glue" code that forces legacy banking infrastructure to behave like modern APIs.
+- **In AgTech:** I realized farm software was overpriced bloatware, so I built a full-stack ERP (React/Supabase) to run my own regenerative farm on Maui.
 
-**🌱 AgTech Founder:** I own and operate a regenerative farm on Maui. When I realized existing farm management software was bloated and expensive, I built my own full-stack platform (React/Supabase) to track crops, activities, compliance, weather data, and more.
+I don't just write code; I ship systems that solve messy, real-world logistical problems.
 
 ---
 
@@ -69,7 +70,7 @@ Currently, I wear two hats:
 
 ![FinTech](https://img.shields.io/badge/FinTech-000000?style=for-the-badge)
 ![AgTech](https://img.shields.io/badge/AgTech-00A651?style=for-the-badge)
-![Regenerative Agriculture](https://img.shields.io/badge/Regenerative_Agriculture-8B4513?style=for-the-badge)
+![Natural_Farming](https://img.shields.io/badge/Natural_Farming-8B4513?style=for-the-badge)
 
 </td>
 </tr>
@@ -95,44 +96,20 @@ Currently, I wear two hats:
 
 ## 🚀 Featured Projects
 
-### Happy Harvest ERP
+### 🌾 Happy Harvest ERP
 
-**Full-Stack Farm Management Platform | [Live Demo](https://app.happylaufarms.com)**
+**Full-Stack Farm Management Platform**
 
-A comprehensive resource planning (ERP) system for regenerative farms to track seed lots, planting schedules, and harvests for regulatory, grant, and financing compliance.
+Existing farm management software is expensive and ignores the realities of regenerative agriculture. I built Happy Harvest to solve my own problem: tracking seed lots, USDA compliance, and harvest windows without drowning in spreadsheets.
 
-#### 🌙 Mahina Hawaiʻi: Native Hawaiian Agricultural Intelligence Engine
+**The Engineering Challenge:**
+Modeling the correlation between lunar phases (Native Hawaiian practice) and standard USDA crop data requires complex logic, not just CRUD.
 
-**A complex system modeling engine that correlates lunar phases with optimal planting windows, field activities, and harvest timing based on centuries-old Native Hawaiian agricultural practices.**
+**The Stack:**
 
-```mermaid
-graph LR
-    A[Lunar Calendar Data] --> B[Mahina Hawaiʻi Engine]
-    C[Weather API] --> B
-    D[USDA Crop Data] --> B
-    E[Farm Activity History] --> B
-    B --> F[Optimal Planting Windows]
-    B --> G[Field Activity Recommendations]
-    B --> H[Harvest Timing Predictions]
-    F --> I[Automated Scheduling]
-    G --> I
-    H --> I
-```
-
-**Tech Stack:**
-
-- TypeScript, React, Shadcn/UI, Tailwind CSS
-- Supabase (PostgreSQL) backend
-- Docker containerization
-- GitHub Actions CI/CD pipeline
-- Zod
-
-**Additional Features:**
-
-- 🌦️ Real-time Weather API integration
-- 🌾 USDA Crop Data API integration
-- 📱 Mobile-first responsive design for field use
-- 📊 Automated grant compliance and regulatory reporting
+- **Frontend:** React, TypeScript, Shadcn/UI (for accessibility and speed)
+- **Backend:** Supabase (PostgreSQL) for relational data integrity
+- **DevOps:** Docker & GitHub Actions (I deploy on Fridays)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
