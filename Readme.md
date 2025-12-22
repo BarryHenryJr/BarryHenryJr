@@ -201,7 +201,6 @@ A two-person engineering collective solving business problems with tools that pr
 - 💰 **$208,000 in technology grants** secured and managed
 - 🔄 **Digital Transformation** - Led migration from fragmented personal emails to centralized Google Workspace & Microsoft 365
 - 📊 **Custom Dashboard** - Built donation dashboard using JavaScript and Google Sheets API, unifying data from Stripe and GiveLively
-- 👥 **CRM Implementation** - Orchestrated Salesforce rollout to streamline volunteer onboarding and donor management during Lahaina wildfire response
 
 ---
 
