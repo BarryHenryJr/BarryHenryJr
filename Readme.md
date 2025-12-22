@@ -4,10 +4,9 @@
 
 **Product Engineer | Full-Stack Developer | Regenerative Farmer | Systems Thinker**
 
-![Location](https://img.shields.io/badge/Location-Kīhei,_Maui,_Hawaiʻi-blue?style=flat-square)
-![Email](https://img.shields.io/badge/Email-barryhenryjr@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Kīhei,_Maui,_Kingdom_of_Hawaiʻi-blue?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Barry_Henry-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/barrynhenry)
-[![GitHub](https://img.shields.io/badge/GitHub-barryhenryjr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/barryhenryjr)
+[![GitHub](https://img.shields.io/badge/GitHub-barryhenryjr-58A6FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/barryhenryjr)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=barryhenryjr&color=blueviolet&style=flat-square)
 
