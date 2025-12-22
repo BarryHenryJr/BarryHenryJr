@@ -5,8 +5,12 @@
 **Product Engineer | Full-Stack Developer | Regenerative Farmer | Systems Thinker**
 
 ![Location](https://img.shields.io/badge/Location-Kīhei,_Maui,_Kingdom_of_Hawaiʻi-blue?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-barryhenryjr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:barryhenryjr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Barry_Henry-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/barrynhenry)
+
 [![GitHub](https://img.shields.io/badge/GitHub-barryhenryjr-58A6FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/barryhenryjr)
+<a href="https://github.com/Agile-Flimflam/TelemetryTaco"><img src="https://img.shields.io/badge/TelemetryTaco-Repo-181717?style=flat-square&logo=github&logoColor=white" alt="TelemetryTaco Repo" /></a>
+<a href="https://github.com/Agile-Flimflam"><img src="https://img.shields.io/badge/Agile--Flimflam-Org-181717?style=flat-square&logo=github&logoColor=white" alt="Agile-Flimflam Org" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=barryhenryjr&color=blueviolet&style=flat-square)
 
@@ -70,7 +74,7 @@ I don't just write code; I ship systems that solve messy, real-world logistical 
 
 ![FinTech](https://img.shields.io/badge/FinTech-000000?style=for-the-badge)
 ![AgTech](https://img.shields.io/badge/AgTech-00A651?style=for-the-badge)
-![Natural_Farming](https://img.shields.io/badge/Natural_Farming-8B4513?style=for-the-badge)
+![Natural Farming](https://img.shields.io/badge/Natural%20Farming-8B4513?style=for-the-badge)
 
 </td>
 </tr>
@@ -129,33 +133,37 @@ Part of the Agile-Flimflam engineering collective - high-velocity shipping and "
 
 **Tech Stack:**
 
-- Python
-- Django
-- Next.js
-- Supabase
-- Railway deployment
-- Zod
-- React
-- TailwindCSS
-- Vite
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
+
+---
 
 ### Agile-Flimflam
 
-**Engineering Collective | Co-Founder / Engineering Lead**
+**Strategic nonsense at scale**
 
-<div align="center">
-<img src="Images/Agile-Flimflam%20Banner.jpg" alt="Agile-Flimflam Banner" width="640" />
-</div>
+**Engineering Collective | Co-Founder / Engineering Lead**
 
 [![Agile-Flimflam](https://img.shields.io/badge/Agile--Flimflam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agile-Flimflam)
 
-**Strategic nonsense at scale**
-
-A two-person engineering collective solving business problems with tools that probably shouldn't exist. Specializing in high-velocity shipping, automating manual workflows to zero, and rapid prototyping.
+<details>
+<summary><strong>Agile-Flimflam Brand</strong></summary>
 
 <div align="center">
-<img src="Images/Agile-Flimflam%20Logo.jpeg" alt="Agile-Flimflam Logo" width="180" />
+<img src="./Images/Agile-Flimflam%20Banner.jpg" alt="Agile-Flimflam Banner" width="720" />
+<br />
+<img src="./Images/Agile-Flimflam%20Logo.jpeg" alt="Agile-Flimflam Logo" width="180" />
 </div>
+
+</details>
+
+A two-person engineering collective solving business problems with tools that probably shouldn't exist. Specializing in high-velocity shipping, automating manual workflows to zero, and rapid prototyping.
 
 **Focus Areas:**
 
