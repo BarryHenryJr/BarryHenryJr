@@ -78,6 +78,22 @@ Currently, I wear two hats:
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/barryhenryjr">
+  <img height="180" align="center" src="https://github-readme-stats-henna-one-16.vercel.app/api?username=barryhenryjr&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" alt="Barry's GitHub Stats" />
+</a>
+
+<a href="https://github.com/barryhenryjr">
+  <img height="180" align="center" src="https://github-readme-stats-henna-one-16.vercel.app/api/top-langs/?username=barryhenryjr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### Happy Harvest ERP
@@ -202,22 +218,6 @@ A two-person engineering collective solving business problems with tools that pr
 - 🔄 **Digital Transformation** - Led migration from fragmented personal emails to centralized Google Workspace & Microsoft 365
 - 📊 **Custom Dashboard** - Built donation dashboard using JavaScript and Google Sheets API, unifying data from Stripe and GiveLively
 - 👥 **CRM Implementation** - Orchestrated Salesforce rollout to streamline volunteer onboarding and donor management during Lahaina wildfire response
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/barryhenryjr">
-  <img height="180" align="center" src="https://github-readme-stats-henna-one-16.vercel.app/api?username=barryhenryjr&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" alt="Barry's GitHub Stats" />
-</a>
-
-<a href="https://github.com/barryhenryjr">
-  <img height="180" align="center" src="https://github-readme-stats-henna-one-16.vercel.app/api/top-langs/?username=barryhenryjr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true" alt="Top Languages" />
-</a>
-
-</div>
 
 ---
 
