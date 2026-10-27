@@ -2,14 +2,15 @@
 
 # Barry Henry
 
-**Product Engineer · Full-Stack Developer**
+**Solutions & Integrations Engineer · Product / Full-Stack Engineer**
 
 I build the software that makes legacy systems and messy real-world operations behave.<br/>
 10 years shipping integrations for 150+ banks, plus a full-stack ERP that runs my own farm on Maui.
 
-**Open to Product Engineer and Senior Full-Stack roles · Remote (HST)**
+**Open to:** Solutions / Integrations Engineer · Forward Deployed Engineer · Solutions Architect · Developer Relations · Product / Full-Stack Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-barryhenry.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://barryhenry.com)
+[![Resume](https://img.shields.io/badge/Resume-barryhenry.com%2Fresume-2E7D32?style=flat-square&logo=readthedocs&logoColor=white)](https://barryhenry.com/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-barrynhenry-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/barrynhenry)
 [![Email](https://img.shields.io/badge/Email-barryhenryjr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:barryhenryjr@gmail.com)
 ![Location](https://img.shields.io/badge/Kīhei,_Maui,_Kingdom_of_Hawaiʻi-555555?style=flat-square&logo=googlemaps&logoColor=white)
@@ -30,13 +31,15 @@ I build the software that makes legacy systems and messy real-world operations b
 
 ### Happy Harvest ERP · Full-stack farm management
 
+_Internal tool in active development; walkthrough available on request._
+
 Tracks seed lots, USDA compliance, and harvest windows for a working regenerative farm, replacing a pile of spreadsheets. The interesting part is the model: it correlates Mahina (the Native Hawaiian lunar calendar) with standard USDA crop data to plan planting and harvest, which takes real domain logic, not just CRUD.
 
 `React` `TypeScript` `shadcn/ui` `Supabase (PostgreSQL)` `Docker` `GitHub Actions`
 
-### [TelemetryTaco](https://github.com/Agile-Flimflam/TelemetryTaco) · Engineering tool
+### [TelemetryTaco](https://github.com/Agile-Flimflam/TelemetryTaco) · Product analytics
 
-A full-stack Django and React app built with Agile-Flimflam.
+A lightweight, developer-focused alternative to PostHog for product analytics. A working demonstration build from Agile-Flimflam.
 
 `Python` `Django` `TypeScript` `React` `Vite` `Tailwind CSS` `Supabase` `Zod`
 
